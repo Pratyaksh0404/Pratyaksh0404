@@ -61,16 +61,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyaksh0404&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyaksh0404&layout=compact&theme=dracula" alt="Top Languages" />
-
-</p>
-
----
-
 ### 💬 I’m Currently Learning
 
 <p align="center">
