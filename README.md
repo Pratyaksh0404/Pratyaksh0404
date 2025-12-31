@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratyaksh Agrawal</h1>
+<h1 align="center">Hello, I'm Pratyaksh Agrawal</h1>
 <h3 align="center">🚀 ML Engineer in the Making | LLMs & NLP Enthusiast | Building Real AI Solutions</h3>
 
 
