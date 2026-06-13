@@ -95,7 +95,7 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 
 ---
 
-## Competitive Programming
+## DSA 
 
 <p align="center">
   <a href="https://leetcode.com/u/Pratyaksh_Agrawal/">
