@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>ML Engineer · Computer Vision · Full-Stack AI</b><br/>
-  Final-year @ LNMIT Jaipur &nbsp;|&nbsp; Data Science Intern @ NovTek Consulting
+  Final-year @ LNMIIT Jaipur &nbsp;|&nbsp; Data Science Intern @ NovTek Consulting
 </p>
 
 <p align="center">
