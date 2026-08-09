@@ -69,25 +69,7 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 
 ---
 
-## Featured Projects
-
-<a href="https://github.com/Pratyaksh0404/DNA-Anomaly-Detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pratyaksh0404&repo=DNA-Anomaly-Detector&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/><br/>
-
-> **NoviSentra** repo is not public — NovTek proprietary .
-
----
-
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyaksh0404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyaksh0404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pratyaksh0404&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
