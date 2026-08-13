@@ -69,14 +69,6 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratyaksh0404&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
----
-
 ## DSA 
 
 <p align="center">
@@ -118,9 +110,3 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 | 🔬 | Research collaborations in RL, wireless AI |
 
 **Reach me:** [pratyaksh0404@gmail.com](mailto:pratyaksh0404@gmail.com) · [LinkedIn](https://www.linkedin.com/in/pratyaksh-agrawal-59b82928a/) · [LeetCode](https://leetcode.com/u/Pratyaksh_Agrawal/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratyaksh0404&color=38BDF8&style=flat-square&label=Profile+views"/>
-</p>
