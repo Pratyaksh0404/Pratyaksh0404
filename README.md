@@ -93,7 +93,7 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 
 ## Achievements
 
-- 🏆 **LeetCode Guardian** — Rating 2219, top ~1% globally · 1000+ problems across LeetCode, GFG, and Codeforces
+- 🏆 **LeetCode Guardian** — Rating 2260, top ~1% globally · 1000+ problems across LeetCode, GFG, and Codeforces
 - 🥉 **Adobe India Hackathon** — Advanced to Round 3 from a national applicant pool
 - 🧬 **Live ML Deployment** — [DNA Anomaly Detector](https://huggingface.co/spaces/Prat-04/DNA-Anomaly-Detector-Pratyaksh) on HuggingFace Spaces (~98% AUC-ROC, ~0.99 Avg Precision)
 - 📡 **IEEE Research Implementation** — MAPPO for RIS-assisted UAV networks · Jiang et al., IEEE IoT Journal, Vol. 12 No. 20, Oct 2025
