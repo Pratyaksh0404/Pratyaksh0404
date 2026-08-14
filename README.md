@@ -73,7 +73,7 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 
 <p align="center">
   <a href="https://leetcode.com/u/Pratyaksh_Agrawal/">
-    <img src="https://img.shields.io/badge/LeetCode-Guardian_🔰_2219-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-Guardian_🔰_2260-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Problems_Solved-1000+-22C55E?style=for-the-badge"/>
