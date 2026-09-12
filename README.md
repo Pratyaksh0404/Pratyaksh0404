@@ -49,7 +49,7 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 |---|---|---|
 | 🎥 **NoviSentra** | Production CCTV analytics — YOLOv8 + OpenCLIP, 14 alert types, live dashboard, ~60% monitoring overhead reduction | 🔨 Under development |
 | 📡 **5G UAV-RIS Optimization** | MAPPO multi-agent RL for energy-efficient UAV-IoT networks, 7–12% EE gain over SCA baseline | 🔬 Ongoing Research |
-| 🥗 **NutriMentor AI** | Full-stack seasonal nutrition platform — local Mistral GGUF, DistilBERT intent routing, zero cloud dependency | 🔨 Active Dev |
+| 🥗 **NutriMentor AI** | Full-stack seasonal nutrition platform — local Mistral GGUF, DistilBERT intent routing, zero cloud dependency . [**Try it live →**](https://nutrimentor-ai.pages.dev/)| ✅ Live |
 | 🧬 **DNA Anomaly Detector** | VAE-based splice junction anomaly detection — ~98% AUC-ROC, ~0.95 F1 · [**Try it live →**](https://huggingface.co/spaces/Prat-04/DNA-Anomaly-Detector-Pratyaksh) | ✅ Live |
 
 ---
@@ -90,6 +90,24 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 </p>
 
 ---
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Pratyaksh0404&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.screw-hand.vercel.app/?username=Pratyaksh0404&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=5&theme=nord&margin-w=10&margin-h=10"
+      alt="GitHub Trophies"
+    />
+  </a>
+</p>
 
 ## Achievements
 
