@@ -47,7 +47,7 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 
 | Project | Description | Status |
 |---|---|---|
-| 🎥 **NoviSentra** | Production CCTV analytics — YOLOv8 + OpenCLIP, 14 alert types, live dashboard, ~60% monitoring overhead reduction | 🔨 Under development |
+| 🎥 **NoviSentra** | Production CCTV analytics — YOLOv8 + OpenCLIP, 14 alert types, live dashboard, ~60% monitoring overhead reduction | ✅ Completed |
 | 📡 **5G UAV-RIS Optimization** | MAPPO multi-agent RL for energy-efficient UAV-IoT networks, 7–12% EE gain over SCA baseline | 🔬 Ongoing Research |
 | 🥗 **NutriMentor AI** | Full-stack seasonal nutrition platform — local Mistral GGUF, DistilBERT intent routing, zero cloud dependency . [**Try it live →**](https://nutrimentor-ai.pages.dev/)| ✅ Live |
 | 🧬 **DNA Anomaly Detector** | VAE-based splice junction anomaly detection — ~98% AUC-ROC, ~0.95 F1 · [**Try it live →**](https://huggingface.co/spaces/Prat-04/DNA-Anomaly-Detector-Pratyaksh) | ✅ Live |
