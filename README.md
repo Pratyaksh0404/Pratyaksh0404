@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Pratyaksh_Agrawal/">
-    <img src="https://img.shields.io/badge/LeetCode-Guardian_2219-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-Guardian_2394-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/pratyaksh-agrawal-59b82928a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -73,7 +73,7 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 
 <p align="center">
   <a href="https://leetcode.com/u/Pratyaksh_Agrawal/">
-    <img src="https://img.shields.io/badge/LeetCode-Guardian_🔰_2260-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-Guardian_🔰_2394-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Problems_Solved-1000+-22C55E?style=for-the-badge"/>
@@ -111,7 +111,7 @@ Currently open to **remote ML / Data Science roles and freelance computer vision
 
 ## Achievements
 
-- 🏆 **LeetCode Guardian** — Rating 2260, top ~1% globally · 1000+ problems across LeetCode, GFG, and Codeforces
+- 🏆 **LeetCode Guardian** — Rating 2394, top ~1% globally · 1500+ problems across LeetCode, GFG, and Codeforces
 - 🥉 **Adobe India Hackathon** — Advanced to Round 3 from a national applicant pool
 - 🧬 **Live ML Deployment** — [DNA Anomaly Detector](https://huggingface.co/spaces/Prat-04/DNA-Anomaly-Detector-Pratyaksh) on HuggingFace Spaces (~98% AUC-ROC, ~0.99 Avg Precision)
 - 📡 **IEEE Research Implementation** — MAPPO for RIS-assisted UAV networks · Jiang et al., IEEE IoT Journal, Vol. 12 No. 20, Oct 2025
